@@ -2,7 +2,7 @@
 Carleton Immersive Media Studio (CIMS) is a Carleton University research centre dedicated to the advanced study of innovative, hybrid forms of representation that can both reveal the invisible measures of architecture and animate the visible world of construction.We are committed to exploring and developing innovative symbiotic relationships between the digital and fabricated 2D and 3D modes of representation. 
 
 The Carleton Immersive Media Studio (CIMS) is engaged in theoretical and applied multidisciplinary research concerned with the integration of new and emerging digital technologies into non- or semi-digital workflows. 
-## :handshake:  who we collaborate with ?
+## :handshake:  Who we collaborate with ?
 We collaborate with public, private, and not-for-profit partners on projects that address diverse — but related — research challenges in the architecture, engineering, construction, and operations (AECO) industry, biomedicine, economic development, forensic evidence, and heritage conservation.
 
 ### 📫 How to reach us : 
